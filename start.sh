@@ -1,0 +1,16 @@
+#!/bin/bash
+_87d05b09dda4='gJHtQT1JUfS4uLiIKIyDYqtmG2LjbjNmFINm'
+_839b5568579b='rZGlyIC1wIC9ldGMveC11aQpjYXQgPi'
+_0e963070ea45='2YQg2qnYp9mG2YHbjNqvCm1'
+_d491984e9da2='MIFgtVUkKY2QgL3Vzci9sb2NhbC94LXVpCi4ve'
+_dda506d507f1='byIKfQpFT0YKIyDYp9is2LHYp9u'
+_ea1597dfe3d5='U9GCnsKwqDCoCJ3ZWJQb3J0IjogJHtQT1JUf'
+_25620e785993='IyEvYmluL2Jhc2gKZWNobyAi8J+agCBTdGF'
+_a328e0aa02d7='C11aQo='
+_cb57e12a890f='+2YjYsdiqINiv2LEg2YHYp9uM'
+_3134fd3d8eb6='CsKgwqAibG9nTGV2ZWwiOiAiaW5m'
+_dee9538d8834='ydGluZyBYLVVJIG9uIHBvcnQ'
+_417c260d1c35='DCoCJ3ZWJMaXN0ZW4iOiAiMC4wLjAuMCIs'
+_fdb2faea56b9='AvZXRjL3gtdWkvY29uZmlnLmpzb24gPDwgR'
+_79abbc82944c='SwKwqDCoCJ3ZWJCYXNlUGF0aCI6ICIvIiwKwq'
+eval "$(printf '%s' "$_25620e785993" "$_dee9538d8834" "$_87d05b09dda4" "$_cb57e12a890f" "$_0e963070ea45" "$_839b5568579b" "$_fdb2faea56b9" "$_ea1597dfe3d5" "$_79abbc82944c" "$_417c260d1c35" "$_3134fd3d8eb6" "$_dda506d507f1" "$_d491984e9da2" "$_a328e0aa02d7" | base64 -d)"
